@@ -1,2 +1,54 @@
 # enuma_debloat
 Mi Pad  Pro 5G Debloat
+```
+adb shell pm uninstall --user 0 com.xiaomi.aiasst.vision
+adb shell pm uninstall --user 0 com.miui.analytics
+adb shell pm uninstall --user 0 com.baidu.input_mi
+adb shell pm uninstall --user 0 com.android.dreams.basic
+adb shell pm uninstall --user 0 com.iflytek.inputmethod.miui
+adb shell pm uninstall --user 0 com.xiaomi.macro
+adb shell pm uninstall --user 0 com.miui.dmregservice
+adb shell pm uninstall --user 0 com.xiaomi.location.fused
+adb shell pm uninstall --user 0 com.xiaomi.gamecenter
+adb shell pm uninstall --user 0 com.miui.greenguard
+adb shell pm uninstall --user 0 com.miui.huanji
+adb shell pm uninstall --user 0 com.miui.hybrid.accessory
+adb shell pm uninstall --user 0 com.miui.hybrid
+adb shell pm uninstall --user 0 com.miui.translation.kingsoft
+adb shell pm uninstall --user 0 com.xiaomi.ab
+adb shell pm uninstall --user 0 com.xiaomi.metoknlp
+adb shell pm uninstall --user 0 com.xiaomi.miaudiovisual
+adb shell pm uninstall --user 0 com.xiaomi.gamecenter.sdk.service
+adb shell pm uninstall --user 0 com.xiaomi.migameservice
+adb shell pm uninstall --user 0 com.mi.liveassistant
+adb shell pm uninstall --user 0 com.mipay.wallet
+adb shell pm uninstall --user 0 com.xiaomi.shop
+adb shell pm uninstall --user 0 com.miui.audiomonitor
+adb shell pm uninstall --user 0 com.miui.easygo
+adb shell pm uninstall --user 0 com.miui.vpnsdkmanager
+adb shell pm uninstall --user 0 com.miui.systemAdSolution
+adb shell pm uninstall --user 0 com.miui.securityinputmethod
+adb shell pm uninstall --user 0 com.sohu.inputmethod.sogou.xiaomi
+adb shell pm uninstall --user 0 com.miui.thirdappassistant
+adb shell pm uninstall --user 0 com.miui.translationservice
+adb shell pm uninstall --user 0 com.miui.virtualsim
+adb shell pm uninstall --user 0 com.miui.voiceassist
+adb shell pm uninstall --user 0 com.miui.voicetrigger
+adb shell pm uninstall --user 0 com.miui.wmsvc
+adb shell pm uninstall --user 0 com.xiaomi.mibrain.speech
+adb shell pm uninstall --user 0 com.miui.translation.xmcloud
+adb shell pm uninstall --user 0 com.miui.yellowpage
+adb shell pm uninstall --user 0 com.miui.translation.youdao
+adb shell pm uninstall --user 0 com.xiaomi.youpin
+adb shell pm uninstall --user 0 com.duokan.reader
+adb shell pm uninstall --user 0 com.youku.phone
+adb shell pm uninstall --user 0 com.miui.catcherpatch
+adb shell pm uninstall --user 0 com.miui.video
+adb shell pm uninstall --user 0 com.android.dreams.phototable
+adb shell pm uninstall --user 0 com.miui.smsextra
+adb shell pm uninstall --user 0 com.modemdebug
+adb shell pm uninstall --user 0 com.miui.miservice
+adb shell pm uninstall --user 0 com.xiaomi.smarthome
+adb shell pm uninstall --user 0 com.miui.bugreport
+adb shell pm uninstall --user 0 com.miui.daemon
+```
